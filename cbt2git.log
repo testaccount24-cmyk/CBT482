@@ -1,0 +1,9 @@
+2025-04-04 10:26:48.534227 - Received CBT.V508.FILE482.PDS from FILE482.XMI 
+2025-04-04 10:26:48.535021 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE482.PDS, moved to PDS/$$$#DATE
+2025-04-04 10:26:48.535176 - Found $$NOTE1.eml (message/rfc822) in CBT.V508.FILE482.PDS, moved to PDS/$$NOTE1
+2025-04-04 10:26:48.535315 - Found $EPILOG.txt (text/plain) in CBT.V508.FILE482.PDS, moved to PDS/$EPILOG
+2025-04-04 10:26:48.535463 - Found $PROLOG.txt (text/plain) in CBT.V508.FILE482.PDS, moved to PDS/$PROLOG
+2025-04-04 10:26:48.535582 - Found $REGS.txt (text/plain) in CBT.V508.FILE482.PDS, moved to PDS/$REGS
+2025-04-04 10:26:48.535702 - Found @FILE482.txt (text/plain) in CBT.V508.FILE482.PDS, moved to PDS/@FILE482
+2025-04-04 10:26:48.535828 - Found GDGCOPY.txt (text/plain) in CBT.V508.FILE482.PDS, moved to PDS/GDGCOPY
+2025-04-04 10:26:48.535943 - Found GDGCOPYO.txt (text/plain) in CBT.V508.FILE482.PDS, moved to PDS/GDGCOPYO
